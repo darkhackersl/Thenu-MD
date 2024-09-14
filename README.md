@@ -18,11 +18,19 @@
 <p align="left">•This bot made using Baileys..❤️</p>
 <p align="left">•♻️Simple Whatsapp Bot ♻️
 
-## <img src="https://camo.githubusercontent.com/3e4ba60aaf08d8e8b8b91661ac3c263e3b0bb8ded371128dc3fe9b84b5464e42/68747470733a2f2f6d656469612e74656e6f722e636f6d2f726550446644574f33586f41414141642f6861636b696e672e676966" height="400" width="500">
+## Connect to app.
+
+## <img src="https://camo.githubusercontent.com/3e4ba60aaf08d8e8b8b91661ac3c263e3b0bb8ded371128dc3fe9b84b5464e42/68747470733a2f2f6d656469612e74656e6f722e636f6d2f726550446644574f33586f41414141642f6861636b696e672e676966" height="300" width="300">
 
 <div align="center">
+
+<a href="https://app.jotform.com/242574628397470?utm_source=share-qr&utm_medium=website&utm_campaign=portal-app&utm_term=242574628397470" rel="no-follow"><img src="https://www.jotform.com/uploads/sdcwesternmusic12/form_files/242574628397470_1726329005_qrcode_muse.png" width="300" style="max-width: 200px" alt="QR Code for Thenu-MD"/></a>
  
 ## SETUP
+
+<p align="left">
+
+ |**[`THENU-MD APP`](https://app.jotform.com/242574628397470)**|
 
 <p align="left">1. Fork the repo
     <br>
