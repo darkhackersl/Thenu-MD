@@ -31,7 +31,7 @@
 
  <p align="left">1. Connect APP
     <br>
-<a href='(https://app.jotform.com/242574628397470' target="_blank"><img alt='THENU-MD' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a></p>
+<a href='(https://app.jotform.com/242574628397470' target="_blank"><img alt='THENU-MD' src='https://img.shields.io/badge/Thenu MD APP-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a></p>
 
 <p align="left">2. Fork the repo
     <br>
