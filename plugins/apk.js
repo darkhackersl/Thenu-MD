@@ -1,23 +1,28 @@
+const apkdl = require('../lib/apkdl')
 const config = require('../config')
 const { cmd, commands } = require('../command')
+
 cmd({
     pattern: "apk",
-    alias: ["modapk"],
-    desc: "download apks",
+    react: "📥",
     category: "download",
-    react: "⚡",
     filename: __filename
 },
-async(conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply }) => {
-    try {
-        if (!q && !q.startsWith("https://")) return reply("❗Apk Not Found,Sorry")
-        //fetch data from api          
-        let baseUrl = 'your_base_url'; // Define baseUrl here
-        let data = await fetchJson(`${baseUrl}/api/apkdl?url=${q}`); // Correct template literal
-        reply("plase waite...")
-        await conn.sendMessage(from, { document: { url: data.data.link_1 }, fileName: data.data.name, mimetype: data.data.file_type, caption: cap }, { quoted: mek })                                                                                                                 
-         }catch(e){
-        console.log(e)
-        reply(`${e}`)
-        }
-        })
+async(conn, mek, m,{from, l, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply}) => {
+try{
+await conn.sendMessage(from, { react: { text: '📥', key: mek.key }})
+if(!q) return await conn.sendMessage(from , { text: '*Need apk link...*' }, { quoted: mek } ) 
+const data = await apkdl.download(q)
+let listdata = `*📚 Name :* ${data.name}
+*📦 Developer :* ${data.package}
+*⬆️ Last update :* ${data.lastup}
+*📥 Size :* ${data.size}`
+await conn.sendMessage(from, { image: { url: data.icon }, caption: listdata }, { quoted: mek })
+let sendapk = await conn.sendMessage(from , { document : { url : data.dllink  } , mimetype : 'application/vnd.android.package-archive' , fileName : data.name + '.' + 'apk',caption: '' } , { quoted: mek })
+await conn.sendMessage(from, { react: { text: '📁', key: sendapk.key }})
+await conn.sendMessage(from, { react: { text: '✔', key: mek.key }})
+} catch (e) {
+    reply('*ERROR !!*')
+  console.log(e)
+}
+})
