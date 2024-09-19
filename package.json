@@ -31,7 +31,7 @@
     "hxz-api": "^1.0.1",
     "@vncsprd/soundcloud-downloader": "1.2.2",
      "didyoumean": "^1.2.2",
-      "dotenv": "^16.1.4",
+     "dotenv": "^16.1.4",
        "emoji-api": "^2.0.1",
         "express": "^4.18.1",
         "fb-downloader-scrapper": "^1.0.1",
