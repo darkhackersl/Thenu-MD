@@ -1,3 +1,5 @@
+// THENU - MD
+
 var commands = [];
 
 function cmd(info, func) {
