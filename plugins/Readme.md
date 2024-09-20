@@ -1,0 +1,3 @@
+# 🤦‍♂️HELLOOOOOO.......................
+
+## DONT COPY MY PLUGINS..😒
