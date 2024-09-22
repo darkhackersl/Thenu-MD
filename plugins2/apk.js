@@ -1,7 +1,7 @@
 const config = require('../config')
 const { cmd, commands } = require('../command')
 cmd({
-    pattern: "apk",
+    pattern: "apk2",
     alias: ["modapk"],
     desc: "download apks",
     category: "download",
