@@ -6,6 +6,7 @@ cmd({
     pattern: "song",
     desc: "download songs.",
     category: "download",
+    react: "🎧",
     filename: __filename
 },
 async(conn, mek, m,{from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply}) => {
@@ -16,18 +17,24 @@ const data = search.videos[0];
 const url = data.url
 
 let desc = `
-  *♻️ 🎶Thenu-MD Song Downloader🎵 ♻️*
-        ↺ |◁   II   ▷|   ♡
-  
-  - Title: ${data.title}
-  - Description: ${data.description}
-  - Time: ${data.timestamp}
-  - Ago: ${data.ago}
-  - Views: ${data.views}
-    
- *🎵Your song downloading...*
- 
-> © Made by Thenula Panapiti.
+ *❮❮❮ THENU - MD SONG DOWNLOADER ❯❯❯*
+
+> ➤ *𝗧𝗜𝗧𝗟𝗘* - ${data.title}
+
+> ➤ *𝗩𝗜𝗘𝗪𝗦* - ${data.views}
+
+> ➤ *𝗗𝗘𝗦𝗖𝗥𝗜𝗣𝗧𝗜𝗢𝗡* - ${data.description}
+
+> ➤ *𝗧𝗜𝗠𝗘* - ${data.timestamp}
+
+> ➤ *𝗔𝗚𝗢* - ${data.ago}
+
+>  downloding & sending plase waite...🚀💗
+
+> ꜱɪᴍᴘᴀʟ ᴡᴀᴛꜱ ᴀᴘᴘ ʙᴏᴛ ʙʏ THENU  ᴍᴅ ⚡
+
+> *THENU ᴍᴅ ᴡᴀᴛꜱ ᴀᴘᴘ ʙᴏᴛ ⚟*
+> ↺ |◁   II   ▷|   ♡
   `
  await conn.sendMessage(from,{image:{url: data.thumbnail},caption:desc},{quoted:mek})
  
@@ -51,10 +58,11 @@ let desc = `
 })
 
 //--------------------------------------VIDEO-DOWNLOAD------------------------------------------------
-
+//
 cmd({
     pattern: "video",
     desc: "download videos.",
+    react: "📽️",
     category: "download",
     filename: __filename
 },
@@ -65,18 +73,26 @@ const search = await yts (q)
 const data = search.videos[0];
 const url = data.url
 
-let desc = `
-  *♻️ 📽️Thenu-MD VIDEO Downloader📽️ ♻️*
-  
-  - Title: ${data.title}
-  - Description: ${data.description}
-  - Time: ${data.timestamp}
-  - Ago: ${data.ago}
-  - Views: ${data.views}
-    
- *🎬 Your video downloading....*
+let desc = `*❮❮❮ THENU - MD VIDEO DOWNLOADER ❯❯❯*
+
+> ➤ *𝗧𝗜𝗧𝗟𝗘* - ${data.title}
+
+> ➤ *𝗩𝗜𝗘𝗪𝗦* - ${data.views}
+
+> ➤ *𝗗𝗘𝗦𝗖𝗥𝗜𝗣𝗧𝗜𝗢𝗡* - ${data.description}
+
+> ➤ *𝗧𝗜𝗠𝗘* - ${data.timestamp}
+
+> ➤ *𝗔𝗚𝗢* - ${data.ago}
+
+> 🎬 Your video downloading....
+
+> ꜱɪᴍᴘᴀʟ ᴡᴀᴛꜱ ᴀᴘᴘ ʙᴏᴛ ʙʏ THENU  ᴍᴅ ⚡
+
+> *THENU ᴍᴅ ᴡᴀᴛꜱ ᴀᴘᴘ ʙᴏᴛ ⚟*
  
 > © Made by Thenula Panapiti.
+> ↺ |◁   II   ▷|   ♡
   `
  await conn.sendMessage(from,{image:{url: data.thumbnail},caption:desc},{quoted:mek})
  
@@ -98,3 +114,4 @@ let desc = `
   reply(`${e}`)
 }
 })
+
