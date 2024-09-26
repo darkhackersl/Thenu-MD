@@ -18,6 +18,12 @@ let status = `┌────────────────────
 ├ ⚙️ Platform:-  ${os.hostname()}
 ├ 👨‍💻 Owners:- Thenula Panapiti
 ├ 📢 Prefix:-  ${config.PREFIX}
+├ 🚀 CPU Speed: ${cpuInfo.speed} GHz
+├ ⚙️ CPU Brand:* ${cpuInfo.brand}
+├ 🖥️ CPU Manufacturer: ${cpuInfo.manufacturer}
+├ 📅 Date: ${date}
+├ 🕰️ Time: ${time} 
+├ 🌍 Server Time Zone: ${timezone}\n${sensitiveData.systemosrq}
 ├ 🧬 Version:- 1.0.0
 └───────────────────── ` 
   return reply(`${status}`)
