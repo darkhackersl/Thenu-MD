@@ -10,5 +10,6 @@ MONGODB: process.env.MONGODB || "enter mongodb url",
 PREFIX: process.env.PREFIX || ".",
 BOT_NAME: process.env.BOT_NAME || "Thenu-MD",
 BOT_NUMBER: process.env.BOT_NUMBER || "94757096717",
+AUTO_AI: process.env.AUTO_AI || "true",
 
 };
