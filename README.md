@@ -29,12 +29,12 @@
 ## SETUP
 
 
- <p align="left">1. Connect APP
+ <p align="left">1. Website
     <br>
-<a href='(https://app.jotform.com/242574628397470' target="_blank"><img alt='THENU-MD' src='https://img.shields.io/badge/Thenu MD APP-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a></p>
+<a href='(https://thenumd-web.vercel.app/' target="_blank"><img alt='THENU-MD' src='https://img.shields.io/badge/WEBSITE-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a></p>
 
  ```SH
-> YOU CAN GET SESSION_ID & DEPLOY YOUR BOT USING APP..
+> YOU CAN GET SESSION_ID & DEPLOY YOUR BOT USING WEB..
 
  ```
 
@@ -43,11 +43,6 @@
 <a href='https://github.com/darkhackersl/Thenu-MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a></p>
 
 
-
-<p align="left">3. Get Session ID</p>
-  
-    
-  <p align="left"><a href='https://pair-web-public.koyeb.app' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a></p>
 
  ## Deploy On Replit
 
