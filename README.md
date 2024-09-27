@@ -31,7 +31,7 @@
 
  <p align="left">1. Website
     <br>
-<a href='(https://thenumd-web.vercel.app/' target="_blank"><img alt='THENU-MD' src='https://img.shields.io/badge/WEBSITE-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a></p>
+<a href='https://thenumd-web.vercel.app/' target="_blank"><img alt='THENU-MD' src='https://img.shields.io/badge/WEBSITE-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a></p>
 
  ```SH
 > YOU CAN GET SESSION_ID & DEPLOY YOUR BOT USING WEB..
