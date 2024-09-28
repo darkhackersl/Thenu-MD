@@ -18,7 +18,7 @@
 <p align="left">•This bot made using Baileys..❤️</p>
 <p align="left">•♻️Simple Whatsapp Bot ♻️
 
-## Connect to app. .. 
+. .. 
 
 ## <img src="https://camo.githubusercontent.com/3e4ba60aaf08d8e8b8b91661ac3c263e3b0bb8ded371128dc3fe9b84b5464e42/68747470733a2f2f6d656469612e74656e6f722e636f6d2f726550446644574f33586f41414141642f6861636b696e672e676966" height="300" width="300">
 
@@ -29,12 +29,12 @@
 ## SETUP
 
 
- <p align="left">1. Website
+ <p align="left">1. GO TO WEBSITE
     <br>
-<a href='https://thenumd-web.vercel.app/' target="_blank"><img alt='THENU-MD' src='https://img.shields.io/badge/WEBSITE-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a></p>
+<a href='https://thenu-ofc-web.vercel.app/' target="_blank"><img alt='THENU-MD' src='https://img.shields.io/badge/Website-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a></p>
 
  ```SH
-> YOU CAN GET SESSION_ID & DEPLOY YOUR BOT USING WEB..
+> GO TO WEBSITE FOR DEPLOY & GET SESSION_ID
 
  ```
 
@@ -42,29 +42,6 @@
     <br>
 <a href='https://github.com/darkhackersl/Thenu-MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a></p>
 
-
-
- ## Deploy On Replit
-
- [![Run on Repl.it](https://repl.it/badge/github/PikaBotz/Anya_v2-MD)](https://replit.com/github/darkhackersl/Thenu-MD) </p>
----
-
-# DEPLOY TO HEROKU
-
-## 1. If You don't have an account in Heroku. Create a account.
- 
-<p align="center"><a href="https://signup.heroku.com"> <img src="https://img.shields.io/badge/heroku%20Account-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
-
-
-## 2.Now Deploy
-   <br>
- <div align="center">
-  <a href="https://heroku.com/deploy?template=https://github.com/darkhackersl/Thenu-MD">
-    <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku">
-  </a>
-</div>
-____
-  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ## SETUP TERMUX 
 
