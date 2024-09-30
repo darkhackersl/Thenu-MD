@@ -86,6 +86,8 @@
     "@sl-code-lords/si-subdl": "^1.1.1",
     "@sl-code-lords/esana-news": "latest",
     "@ffmpeg-installer/ffmpeg": "^1.1.0",
+    "@sl-code-lords/si-subdl": "^1.1.1",
+    "@sl-code-lords/text-pro-me": "^1.0.0"
     "@blackamda/telegram-image-url": "^1.0.0",
         "wikipedia":"2.1.2",
         "xfarr-api": "^1.0.3",
