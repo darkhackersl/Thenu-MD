@@ -9,7 +9,8 @@ SESSION_ID: process.env.SESSION_ID || "EBAxHC7D#03YiwkXqf3-C_CQoHFpetJiwrlZO6iAI
 MONGODB: process.env.MONGODB || "mongodb://mongo:asvGZtHAxUOpWinxxNpCuOyLzcsqVMMi@junction.proxy.rlwy.net:31271",
 PREFIX: process.env.PREFIX || ".",
 BOT_NAME: process.env.BOT_NAME || "Thenu-MD",
-BOT_NUMBER: process.env.BOT_NUMBER || "94757096717",
-AUTO_AI: process.env.AUTO_AI || "true",
+BOT_NUMBER: process.env.BOT_NUMBER || "94767096711",
+AUTO_AI: process.env.AUTO_AI || "false",
+LANG: process.env.LANG || "SI"
 
 };
