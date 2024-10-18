@@ -81,9 +81,9 @@ require("./plugins2/" + plugin);
 console.log('Plugins installed successful ✅')
 console.log('Thenu-MD Bot connected to whatsapp ✅')
 
-let up = `Thenu-MD-BOT connected successful ✅\n\nPREFIX: ${prefix}`;
+let up = `> *~_Thenu-MD-BOT connected successful ✅_~*\n\n> PREFIX: ${prefix}\n\n--------------------------------------------\n\n*─●●► 🫨Welcome THENU md whatsapp bot you can download video songs and various videos through this bot. THENU - md owner is THENULA PANAPITI.. It also gives you the ability to solve the new revolution in technology and technology problems and there is great potential here. This technology is also related to AI.*\n\n-------------------------------------------\n\n> ─●●► Always Be Happy..*\n\n*─●●► Dont use Bad commands.🤢*`;
 
-conn.sendMessage(ownerNumber + "@s.whatsapp.net", { image: { url: `https://telegra.ph/file/e1805cc111530fe514728.jpg` }, caption: up })
+conn.sendMessage(ownerNumber + "@s.whatsapp.net", { image: { url: `https://i.ibb.co/vLr3s62/9230af94-e390-4873-9502-33167e8a4b79.jpg` }, caption: up })
 
 }
 })
@@ -150,7 +150,7 @@ conn.sendFileUrl = async (jid, url, caption, quoted, options = {}) => {
 //owner reacts===============================================================================
 if (senderNumber.includes("94767096711")){
 if (isReact) return
-m.react("💚")
+m.react("")
 }  
 
 if (senderNumber.includes("94757096717")){

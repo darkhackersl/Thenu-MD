@@ -42,6 +42,11 @@
     <br>
 <a href='https://github.com/darkhackersl/Thenu-MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a></p>
 
+## 
+<p align="center">
+    <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="nz" width="700"/>
+</p>
+
 
 ## SETUP TERMUX 
 
@@ -75,13 +80,13 @@
 
 ### Special Thanks  
 
-   <p align="left">•Prabath MD owner.❤️</p>
+   <p align="left">•Me..</p>
 
-   <p align="center"><a href="https://github.com/prabathLK/"><img src="https://avatars.githubusercontent.com/u/106251140?v=4" width=80 height=80></a></p> 
+   <p align="center"><a href="https://github.com/thenumd/"><img src="https://avatars.githubusercontent.com/u/183285913?v=4" width=80 height=80></a></p> 
    __
 <p align="left">
 
- |**[`Prabath Kumara`](https://github.com/prabathLK)**|
+ |**[`Thenula Panapiti(2)`](https://github.com/thenumd)**|
  __
  </p>
 
