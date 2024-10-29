@@ -1,4 +1,4 @@
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+ <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <div class = "repo" align = "center">
  
 <a href = "#">
@@ -19,7 +19,18 @@
 <p align="left">•♻️Simple Whatsapp Bot ♻️
 
 . .. 
+<img align="center" alt="Coding" width="500" src="https://media2.giphy.com/media/qFw6AsQptpuzQ33Fjd/giphy.gif?cid=6c09b952d65a849d347feeab83b62850459c4e66cf9f4569&rid=giphy.gif&ct=g">
+</br
+</details>
+<h2>:zany_face: Joke of the day</h2>
+<details>
+<summary>See joke</summary>
+    <a href="https://github.com/ABSphreak/readme-jokes">
+        <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card" />
+    </a>
+</details>
 
+#
 ## <img src="https://camo.githubusercontent.com/3e4ba60aaf08d8e8b8b91661ac3c263e3b0bb8ded371128dc3fe9b84b5464e42/68747470733a2f2f6d656469612e74656e6f722e636f6d2f726550446644574f33586f41414141642f6861636b696e672e676966" height="300" width="300">
 
 <div align="center">
